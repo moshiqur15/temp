@@ -1,5 +1,4 @@
-# temp
-starting my first github repository
+
 R version 4.0.2 (2020-06-22)
 Platform: x86_64-w64-mingw32/x64 (64-bit)
 Running under: Windows 7 x64 (build 7601) Service Pack 1
